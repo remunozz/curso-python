@@ -12,7 +12,8 @@ print("Python", "es", "genial")
 
 print("Python", "es", "brutal", sep = "-")
 
-print("Esto se imprime", end = "\n")
+# print("Esto se imprime", end = "\n") por defecto salto de linea
+print("Esto se imprime", end = " ")
 print("en una línea")
 
 print(42)
