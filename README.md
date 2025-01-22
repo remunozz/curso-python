@@ -1,5 +1,7 @@
 # Curso de Python desde cero (por @midudev)
 
+![PYTHON1](https://github.com/user-attachments/assets/284de8a1-4cb2-4120-bbe4-227a71fd65c0)
+
 Aprende el lenguaje de programación del momento:
 
 ✓ Nueva clase cada miércoles
@@ -8,11 +10,12 @@ Aprende el lenguaje de programación del momento:
 ✓ De código abierto
 
 Horario por países:
-18H 🇪🇸 17H 🇮🇨
-14H 🇺🇾 🇦🇷 🇨🇱 🇵🇾
-13H 🇹🇹 🇧🇴 🇻🇪 🇩🇴 🇵🇷
-12H 🇨🇴 🇵🇪 🇪🇨 🇨🇺 🇵🇦
-11H 🇲🇽 🇨🇷 🇳🇮 🇸🇻 🇭🇳
+
+18H 🇪🇸 17H 🇮🇨<br />
+14H 🇺🇾 🇦🇷 🇨🇱 🇵🇾<br />
+13H 🇹🇹 🇧🇴 🇻🇪 🇩🇴 🇵🇷<br />
+12H 🇨🇴 🇵🇪 🇪🇨 🇨🇺 🇵🇦<br />
+11H 🇲🇽 🇨🇷 🇳🇮 🇸🇻 🇭🇳<br />
 
 ¿Dónde? En [twitch.tv/midudev](https://twitch.tv/midudev)
 
