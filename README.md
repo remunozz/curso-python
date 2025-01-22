@@ -4,10 +4,10 @@
 
 Aprende el lenguaje de programación del momento:
 
-✓ Nueva clase cada miércoles
-✓ Desde cero y paso a paso
-✓ Práctico y con ejercicios
-✓ De código abierto
+✓ Nueva clase cada miércoles<br />
+✓ Desde cero y paso a paso<br />
+✓ Práctico y con ejercicios<br />
+✓ De código abierto<br />
 
 Horario por países:
 
