@@ -62,4 +62,4 @@ MI_CONSTANTE = 3.14 # UPPER_CASE -> constantes
 is_user_logged_in: bool = True
 print(is_user_logged_in)
 
-name: str = "midudev"
+name: str = "sebasao"
