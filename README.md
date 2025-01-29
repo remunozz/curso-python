@@ -23,6 +23,8 @@
 - 🚀 Ideal para principiantes: comienza **desde cero** y avanza paso a paso.
 - 🛠️ **Curso práctico** con ejercicios para que puedas practicar lo aprendido.
 - 📝 **Código abierto**: lo que te permitirá clonar el proyecto y tener acceso completo a todo lo que se muestra.
+> [!TIP]
+> **¿Sabías que puedes acceder a todas las clases desde la [Academia de midudev](https://midu.dev/)?** Si eres suscriptor en [Twitch](https://www.twitch.tv/midudev), ¡ya tienes acceso!
 
 ## 🕐 Horario por países
 
@@ -69,7 +71,40 @@ Dirígete a la carpeta
 ```bash
   cd curso-python
 ```
+## ⚙️ Requisitos para seguir el curso
 
+> [!IMPORTANT]
+> **Asegúrate de tener Python instalado.**
+
+1. Verifica si tienes Python:
+   ```bash
+   python --version
+   ```
+   o
+   ```bash
+   python3 --version
+   ```
+
+2. Si no lo tienes instalado, descárgalo desde [la página oficial de Python](https://www.python.org/downloads/).
+
+> [!TIP]
+> Si no quieres instalar nada, puedes usar editores online como:
+> - [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+> - [Python Sandbox](https://pythonsandbox.io/)
+> - [Google Colab](https://colab.research.google.com/)
+
+---
+
+## 💻 Configuración recomendada
+
+> [!TIP]
+> Usa **Visual Studio Code (VS Code)** para escribir y ejecutar código Python localmente.
+
+1. Descarga VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. Instala las siguientes extensiones:
+   - **Python**: [Extensión oficial](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+   - **Pylance**: [Mejor soporte para Python](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+   - **Python Debugger**: [Debugging en Python](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
 
 ## ➕ Más información
 
