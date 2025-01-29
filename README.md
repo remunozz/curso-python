@@ -30,10 +30,10 @@
 |------|------------------------------------------|
 | 18H  | 🇪🇸 España                               |
 | 17H  | 🇮🇨 Islas Canarias                       |
-| 14H  | 🇺🇾 Uruguay, 🇦🇷 Argentina, 🇨🇱 Chile, 🇵🇾 Paraguay |
-| 13H  | 🇹🇹 Trinidad y Tobago, 🇧🇴 Bolivia, 🇻🇪 Venezuela, 🇩🇴 República Dominicana, 🇵🇷 Puerto Rico |
-| 12H  | 🇨🇴 Colombia, 🇵🇪 Perú, 🇪🇨 Ecuador, 🇨🇺 Cuba, 🇵🇦 Panamá |
-| 11H  | 🇲🇽 México, 🇨🇷 Costa Rica, 🇳🇮 Nicaragua, 🇸🇻 El Salvador, 🇭🇳 Honduras |
+| 14H  | 🇺🇾 Uruguay 🇦🇷 Argentina 🇨🇱 Chile 🇵🇾 Paraguay |
+| 13H  | 🇧🇴 Bolivia 🇻🇪 Venezuela 🇩🇴 República Dominicana 🇵🇷 Puerto Rico |
+| 12H  | 🇨🇴 Colombia 🇵🇪 Perú 🇪🇨 Ecuador 🇨🇺 Cuba 🇵🇦 Panamá |
+| 11H  | 🇲🇽 México 🇨🇷 Costa Rica 🇳🇮 Nicaragua 🇸🇻 El Salvador 🇭🇳 Honduras |
 
 ## 📺¿Dónde puedo ver el curso? 
 Mira los cursos y participa en vivo en
@@ -50,7 +50,7 @@ Mira los cursos y participa en vivo en
 | Clase     | Código      | Video                          |
 |-----------------|-----------------|----------------------------------|
 |**1. Hola Mundo, Tipos de Datos, Conversión de tipos y Variables** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/01_basic)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2354087841) |
-|**2. Condicionales, listas, loops y rangos + ejercicios**  | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/02_flow_control)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2360535344) |
+|**2. Condicionales y listas + ejercicios**  | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/02_flow_control)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2360535344) |
 |**3. Próximamente** (Miércoles 29 de enero)  |  | |
 
 
