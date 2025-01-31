@@ -1,3 +1,5 @@
+<div align="center">
+
 # Curso Python desde Cero 🐍
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
@@ -19,6 +21,8 @@ Curso práctico y gratuito de Python desde cero. Emitido en directo en [twitch.t
   <a href="https://www.youtube.com/@midudev">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+</div>
+
 </div>
 
 <div align="center">
