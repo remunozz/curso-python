@@ -64,7 +64,7 @@ print(lista1)
 print("Longitud de la lista", len(lista1))
 
 ###
-# EJERCICOS
+# EJERCICIOS
 ###
 
 # Ejercicio 1: El mensaje secreto

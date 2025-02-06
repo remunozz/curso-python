@@ -71,7 +71,7 @@ print('🐼' in animals) # Comprueba si hay un '🐼' en la lista -> True
 print('🐹' in animals) # -> False
 
 ###
-# EJERCICOS
+# EJERCICIOS
 # Usa siempre que puedas los métodos que has aprendido
 ###
 
