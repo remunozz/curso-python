@@ -173,7 +173,7 @@ Descubre más en [cursopython.dev](https://cursopython.dev)
 
 ## 👥 Comunidad
 
-[![Discord](https://img.shields.io/discord/741930799182774292?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/midudev)
+[![Discord](https://img.shields.io/discord/741237973663612969?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/midudev)
 
 Únete a nuestra comunidad para:
 - 💬 Compartir dudas y soluciones
