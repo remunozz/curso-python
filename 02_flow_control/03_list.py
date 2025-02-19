@@ -4,9 +4,6 @@
 # Pueden contener elementos de diferentes tipos.
 ###
 
-import os
-os.system("clear")
-
 # Creación de listas
 print("\nCrear listas")
 lista1 = [1, 2, 3, 4, 5] # lista de enteros
@@ -40,7 +37,7 @@ print(lista1[:3]) # [1, 2, 3]
 print(lista1[3:]) # [4, 5]
 print(lista1[:]) # [1, 2, 3, 4, 5]
 
-# HAY MÁS MAGIA
+# El tercer parámetro es el paso (step)
 lista1 = [1, 2, 3, 4, 5, 6, 7, 8]
 print(lista1[::2]) # para devolver índices pares
 print(lista1[::-1]) # para devolver índices inversos
