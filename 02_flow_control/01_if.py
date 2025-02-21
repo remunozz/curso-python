@@ -7,7 +7,6 @@ from os import system
 if system("clear") != 0: system("cls")
 
 print("\n Sentencia simple condicional")
-
 # Podemos usar la palabra clave "if" para ejecutar un bloque de código
 # solo si se cumple una condición.
 edad = 18

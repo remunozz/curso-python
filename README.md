@@ -68,7 +68,7 @@ Mira los cursos y participa en vivo en
 |**2. Condicionales y listas + ejercicios**  | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/02_flow_control)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2360535344) |
 |**3. bucles while, for y funciones** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/03_loops)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2366925887) |
 |**4. Lógica de Programación + Diccionarios** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/04_logic)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2373204722) |
-|**5. Próximamente** (Miércoles 12 de febrero)  |  | |
+|**5. Próximamente** (Miércoles 19 de febrero)  |  | |
 
 > [!NOTE]
 > El curso está actualmente en emisión. Nuevas clases todos los miércoles a las 18:00h (hora española).
@@ -173,7 +173,7 @@ Descubre más en [cursopython.dev](https://cursopython.dev)
 
 ## 👥 Comunidad
 
-[![Discord](https://img.shields.io/discord/741930799182774292?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/midudev)
+[![Discord](https://img.shields.io/discord/741237973663612969?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/midudev)
 
 Únete a nuestra comunidad para:
 - 💬 Compartir dudas y soluciones

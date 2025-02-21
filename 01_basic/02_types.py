@@ -7,6 +7,9 @@
 from os import system
 if system("clear") != 0: system("cls")
 
+"""
+El comando `type()` devuelve el tipo de un objeto en Python
+"""
 print("int:")  # Enteros (números sin parte decimal)
 print(type(10))  # Número entero positivo
 print(type(0))  # El número cero también es un entero
